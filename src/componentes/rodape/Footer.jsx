@@ -3,7 +3,8 @@ import React from "react";
 function Footer () {
     return (
         <footer>
-        <span>Todos os direitos reservados a óticas olhar misterioso.<span/>
+        <strong>Todos os direitos reservados a óticas olhar misterioso.<strong/>
+
         </footer>
     )
 }
