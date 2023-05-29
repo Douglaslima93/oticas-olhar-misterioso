@@ -2,7 +2,7 @@ import React from "react";
 
 function Secaoproduto () {
     return (
-        <section>
+        <section id="produtos">
             <div>
                 <h2>NOSSOS PRODUTOS </h2>
                 <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino,
