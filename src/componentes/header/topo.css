@@ -1,0 +1,27 @@
+.menu {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+   width: 100%;
+   padding: 20px;
+}
+
+.icones-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.icones-menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    border-bottom: 5px solid transparent;
+}
+
+.icones-menu a:hover {
+    border-bottom: 5px solid yellow;
+}

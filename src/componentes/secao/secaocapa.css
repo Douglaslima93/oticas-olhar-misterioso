@@ -1,0 +1,33 @@
+.secaocapa {
+    width: 100%;
+    height: 100vh;
+    background-image: url('./img/capa.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.itens-secaocapa {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    max-width: 500px;
+    top: 50%;
+    transform: translate(0, -50%);
+    padding: 20px;
+    position: absolute;
+}
+
+.itens-secaocapa p {
+    font-size: 30px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.493);
+}
+
+.itens-secaocapa h1 {
+    font-size: 50px;
+    text-align: left;
+    color: white;
+}
