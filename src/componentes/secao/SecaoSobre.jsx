@@ -2,7 +2,7 @@ import React from "react";
 
 function SecaoSobre () {
     return (
-        <section>
+        <section id="sobre">
             <div>
                 <h2>QUEM SOMOS NÓS?</h2>
                 <p>Fundada em 2001, em Boituva - São Paulo, a Ótica Olhar Misterioso iniciou suas atividades
