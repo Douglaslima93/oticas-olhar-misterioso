@@ -1,16 +1,19 @@
 import React from "react";
+import './secaoprodutos.css'
 
 function Secaoproduto () {
     return (
         <section id="produtos">
-            <div>
+            <div className="container-produtos">
+                <div className="container-texto">
                 <h2>NOSSOS PRODUTOS </h2>
                 <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino,
                     feminino e infantil.
                 </p>
                 <p>Todos os nossos preços são acessiveis e contam com a melhor qualidade do mercado.</p>
+                </div>
 
-                <section>
+                <section className="container-oculos">
 
                     <div>
                         <h2>Óculos de grau</h2>
