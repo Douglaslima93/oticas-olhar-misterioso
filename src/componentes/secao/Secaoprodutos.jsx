@@ -3,7 +3,7 @@ import './secaoprodutos.css'
 
 function Secaoproduto () {
     return (
-        <section id="produtos">
+        <section id="produtos" className="produtos">
             <div className="container-produtos">
                 <div className="container-texto">
                 <h2>NOSSOS PRODUTOS </h2>
@@ -40,7 +40,7 @@ function Secaoproduto () {
                     </div>
                 </section>
             </div>
-            <section>
+            <section className="container-incluem">
                 <p>Todos os nossos produtos incluem:</p>
                 <ul>
                     <li> Garantia de 1 ano</li>
