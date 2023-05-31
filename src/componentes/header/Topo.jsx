@@ -4,8 +4,9 @@ import './topo.css'
 function Topo () {
     return (
         <header id="#topo" className="menu">
-            <div>
-                <img/>
+            <div className="logo"> 
+            <img src="./img/icon-oculos.png" alt="olhar-misterioso"/>
+            <p>Óticas Olhar Misterioso</p>
             </div>
             <div className="icones-menu">
             <a href="#produtos">PRODUTOS</a>

@@ -40,7 +40,8 @@
 }
 
 .container-oculos div img {
-    width: 80%;
+    width: 300px;
+    height: 100px;
 }
 
 .container-oculos div h2 {
