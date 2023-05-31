@@ -16,7 +16,7 @@ function App() {
       <Topo/>
       <Conteudo/>
       <Footer/>
-     <a href='topo'><img src='./img/icons8-upload-50.png'/></a>
+     <a className='iconsubir' href='topo'><img  src='./img/icons8-upload-50.png'/></a>
       </div>
     
   )
