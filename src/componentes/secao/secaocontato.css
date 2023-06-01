@@ -1,7 +1,7 @@
 .container-contato {
     width: 100%;
     height: 80vh;
-    background-color: rgb(8, 8, 49);
+    background-color: #05031b;
     color: white;
     display: flex;
     flex-direction: column;
@@ -51,10 +51,12 @@
     align-items: flex-start;
     width: 300px;
     height: 200px;
+
 }
 
 .container-contato-rede h3 {
     font-size: 18px;
+    margin-left: 0;
 }
 
 .container-contato-rede a {
@@ -65,6 +67,7 @@
     flex-direction: row;
     align-items: center;
     gap: 10px;
+    margin-left: 0;
 }
 
 .container-contato-rede a:hover {

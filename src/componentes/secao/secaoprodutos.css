@@ -19,6 +19,8 @@
 .container-texto p {
     font-size: 20px;
     color: rgba(128, 128, 128, .8);
+    width: 100%;
+    
 }
 
 .container-oculos {
@@ -34,14 +36,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 500px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
     gap: 20px;
 }
 
 .container-oculos div img {
     width: 300px;
-    height: 100px;
+    max-height: 100px;
 }
 
 .container-oculos div h2 {

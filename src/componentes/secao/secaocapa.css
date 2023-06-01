@@ -4,6 +4,7 @@
     background-image: url('./img/capa.png');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     position: relative;
 }
 
