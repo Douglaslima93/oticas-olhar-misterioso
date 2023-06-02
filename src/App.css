@@ -4,3 +4,20 @@
     display: block;
    
 }
+
+@media screen  and (min-width: 350px){
+    .iconsubir img{
+    width: 10%;
+    }
+
+    .iconsubir {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        margin-top: -100px;
+        }
+}
+
+@media screen  and (min-width: 767px){
+
+}

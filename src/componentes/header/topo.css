@@ -44,3 +44,16 @@
 .icones-menu a:hover, .logo p:hover{
     border-bottom: 5px solid yellow;
 }
+
+@media screen  and (min-width: 350px){
+    .menu {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        
+     }
+}
+
+@media screen  and (min-width: 767px){
+    
+}
