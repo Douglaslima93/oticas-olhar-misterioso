@@ -108,6 +108,17 @@
     }
 }
 
-@media screen  and (max-width: 767px){
-    
+@media screen  and (max-width: 550px){
+    .container-contato {
+        height: 100%;
+    }
+
+    .container-contato-rede {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        margin-bottom: 50px;
+    }
 }
