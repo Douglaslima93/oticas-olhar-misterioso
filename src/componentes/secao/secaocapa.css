@@ -32,31 +32,3 @@
     text-align: left;
     color: white;
 }
-
-@media screen  and (min-width: 350px){
-    .secaocapa {
-        width: 100%;
-        margin: 0 0;
-        
-    }
-    
-    .itens-secaocapa p {
-        font-size: 25px;
-        margin: 0;
-    }
-    
-    .itens-secaocapa h1 {
-        font-size: 35px;
-        text-align: left;
-        color: white;
-    }
-    
-
-}
-
-@media screen  and (min-width: 767px){
-    .secaocapa {
-        width: 90%;
-        
-    }
-}
