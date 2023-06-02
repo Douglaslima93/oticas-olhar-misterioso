@@ -79,7 +79,7 @@
     text-align: center;
 }
 
-@media screen  and (min-width: 350px){
+@media screen  and (max-width: 350px){
     .container-texto-sobre h2{
         font-size: 30px;
     }

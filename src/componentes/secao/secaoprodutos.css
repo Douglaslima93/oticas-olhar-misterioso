@@ -75,7 +75,7 @@
     text-align: center;
 }
 
-@media screen  and (min-width: 350px){
+@media screen  and (max-width: 350px){
     .container-texto h2 {
         text-align: center;
         font-size: 30px;
@@ -101,6 +101,6 @@
      }
 }
 
-@media screen  and (min-width: 767px){
+@media screen  and (max-width: 767px){
 
 }
